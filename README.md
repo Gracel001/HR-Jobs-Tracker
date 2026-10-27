@@ -2,7 +2,7 @@
 
 Entry-level and new grad roles across HR: recruiting, HRBP / people partner, HR analytics, L&D, compensation & benefits, employee relations, people operations, and more. Updated daily by GitHub Actions.
 
-_Last updated: 2026-10-27 03:01 UTC_
+_Last updated: 2026-10-27 13:39 UTC_
 
 ## Browse 40 Roles by Category
 
