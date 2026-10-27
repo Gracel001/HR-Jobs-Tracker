@@ -1,0 +1,11 @@
+[
+  {"name": "Stripe", "platform": "greenhouse", "slug": "stripe"},
+  {"name": "Airbnb", "platform": "greenhouse", "slug": "airbnb"},
+  {"name": "Databricks", "platform": "greenhouse", "slug": "databricks"},
+  {"name": "Pinterest", "platform": "greenhouse", "slug": "pinterest"},
+  {"name": "Figma", "platform": "greenhouse", "slug": "figma"},
+  {"name": "Spotify", "platform": "lever", "slug": "spotify"},
+  {"name": "Palantir", "platform": "lever", "slug": "palantir"},
+  {"name": "Ramp", "platform": "ashby", "slug": "ramp"},
+  {"name": "Notion", "platform": "ashby", "slug": "notion"}
+]
