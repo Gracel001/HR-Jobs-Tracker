@@ -2,7 +2,7 @@
 
 Entry-level and new grad roles across HR: recruiting, HRBP / people partner, HR analytics, L&D, compensation & benefits, employee relations, people operations, and more. Updated daily by GitHub Actions.
 
-_Last updated: 2026-10-27 13:39 UTC_
+_Last updated: 2026-10-28 13:43 UTC_
 
 ## Browse 40 Roles by Category
 
@@ -19,7 +19,8 @@ _Last updated: 2026-10-27 13:39 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
-| Stripe | Design Recruiter | Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8163193) | 2026-10-26 |
+| Stripe | Design Recruiter | Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8163193) | 2026-10-27 |
+| Figma | Business Recruiter (São Paulo, Brazil) | São Paulo, Brazil | [Apply](https://boards.greenhouse.io/figma/jobs/5832782004?gh_jid=5832782004) | 2026-10-27 |
 | Stripe | GTM Recruiter (Fixed Term) | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8016504) | 2026-10-26 |
 | Databricks | GTM Talent Sourcer (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002) | 2026-10-25 |
 | Databricks | Recruiter (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8771702002) | 2026-10-25 |
@@ -43,7 +44,6 @@ _Last updated: 2026-10-27 13:39 UTC_
 | Ramp | Associate GTM Recruiter | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/ramp/a85afad0-8051-4333-ae89-0f82321dea87) | 2026-09-17 |
 | Notion | GTM Recruiter, EMEA | Paris, France | [Apply](https://jobs.ashbyhq.com/notion/fb3cd30c-0557-40ec-a47d-e0118663d346) | 2026-09-16 |
 | Notion | Sales Recruiter | New York, New York | [Apply](https://jobs.ashbyhq.com/notion/f663839e-46ac-44ad-9720-da2b6aa28093) | 2026-08-25 |
-| Figma | Business Recruiter (São Paulo, Brazil) | São Paulo, Brazil | [Apply](https://boards.greenhouse.io/figma/jobs/5832782004?gh_jid=5832782004) | 2026-07-22 |
 | Ramp | Technical Recruiter | Engineering  | New York, NY (HQ) | [Apply](https://jobs.ashbyhq.com/ramp/624cd0cc-7471-4c9a-99be-56b90809d2ce) | 2026-05-07 |
 
 ## HR Business Partner & People Partner
@@ -58,7 +58,7 @@ _Last updated: 2026-10-27 13:39 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
-| Figma | HRIS Analyst | San Francisco, CA • New York, NY • United States | [Apply](https://boards.greenhouse.io/figma/jobs/6201385004?gh_jid=6201385004) | 2026-09-22 |
+| Figma | HRIS Analyst | San Francisco, CA • New York, NY • United States | [Apply](https://boards.greenhouse.io/figma/jobs/6201385004?gh_jid=6201385004) | 2026-10-27 |
 | Ramp | HRIS Analyst (Workday) | New York, NY (HQ) | [Apply](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | 2026-09-17 |
 
 ## Compensation, Benefits & Payroll
