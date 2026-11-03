@@ -2,28 +2,28 @@
 
 Entry-level and new grad roles across HR: recruiting, HRBP / people partner, HR analytics, L&D, compensation & benefits, employee relations, people operations, and more. Updated daily by GitHub Actions.
 
-_Last updated: 2026-11-02 13:57 UTC_
+_Last updated: 2026-11-03 13:58 UTC_
 
-## Browse 42 Roles by Category
+## Browse 40 Roles by Category
 
 - [Recruiting & Talent Acquisition](#recruiting--talent-acquisition) (27)
 - [HR Business Partner & People Partner](#hr-business-partner--people-partner) (4)
 - [HR Analytics, HRIS & Systems](#hr-analytics-hris--systems) (2)
-- [Compensation, Benefits & Payroll](#compensation-benefits--payroll) (2)
+- [Compensation, Benefits & Payroll](#compensation-benefits--payroll) (1)
 - [Learning, Development & Talent Management](#learning-development--talent-management) (2)
 - [Employee Relations, DEI & Culture](#employee-relations-dei--culture) (0)
-- [People Operations & HR Generalist](#people-operations--hr-generalist) (5)
+- [People Operations & HR Generalist](#people-operations--hr-generalist) (4)
 - [Other HR Programs & Roles](#other-hr-programs--roles) (0)
 
 ## Recruiting & Talent Acquisition
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Figma | Technical Recruiter (London, United Kingdom) | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/6239628004?gh_jid=6239628004) | 2026-11-03 |
+| Stripe | Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8163193) | 2026-11-02 |
+| Stripe | GTM Recruiter (Fixed Term) | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8016504) | 2026-11-02 |
 | Figma | Sales Recruiter (London, United Kingdom) | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004) | 2026-10-30 |
 | Stripe | Core Business Recruiter (Fixed Term Contract) | Chicago | [Apply](https://stripe.com/jobs/search?gh_jid=8163187) | 2026-10-29 |
-| Stripe | Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8163193) | 2026-10-29 |
-| Stripe | GTM Recruiter | Dublin, London | [Apply](https://stripe.com/jobs/search?gh_jid=8141450) | 2026-10-29 |
-| Stripe | GTM Recruiter (Fixed Term) | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8016504) | 2026-10-29 |
 | Stripe | Recruiting Coordinator | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8301264) | 2026-10-29 |
 | Stripe | Recruiting Coordinator (Fixed-Term Contract) | SF | [Apply](https://stripe.com/jobs/search?gh_jid=8231145) | 2026-10-29 |
 | Stripe | SDC Recruiter | Bengaluru | [Apply](https://stripe.com/jobs/search?gh_jid=8237526) | 2026-10-29 |
@@ -67,7 +67,6 @@ _Last updated: 2026-11-02 13:57 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
-| Databricks | R&D Compensation Business Partner | United States | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8384388002) | 2026-10-21 |
 | Notion | Payroll Analyst  | San Francisco, California | [Apply](https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46) | 2026-10-02 |
 
 ## Learning, Development & Talent Management
@@ -90,7 +89,6 @@ _Last updated: 2026-11-02 13:57 UTC_
 | Stripe | Global People Operations - Systems Administrator | Bengaluru | [Apply](https://stripe.com/jobs/search?gh_jid=8227570) | 2026-10-29 |
 | Stripe | People Operations Associate (Centralized Operations) | Mexico City | [Apply](https://stripe.com/jobs/search?gh_jid=8049722) | 2026-10-29 |
 | Stripe | People Operations Systems Administrator | Mexico City | [Apply](https://stripe.com/jobs/search?gh_jid=8227572) | 2026-10-29 |
-| Notion | People Operations Generalist | San Francisco, California | [Apply](https://jobs.ashbyhq.com/notion/dccc45ce-b143-4e30-bba7-28f1cfd414ae) | 2026-10-29 |
 | Databricks | Data+AI Workforce Transformation Practitioner — Customer Delivery | United States | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002) | 2026-10-14 |
 
 ## Other HR Programs & Roles
