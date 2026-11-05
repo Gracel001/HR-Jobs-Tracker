@@ -1,10 +1,50 @@
 [
   {
+    "title": "GTM Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8141450",
+    "location": "Dublin, London",
+    "date": "2026-11-05",
+    "company": "Stripe",
+    "category": "Recruiting & Talent Acquisition"
+  },
+  {
+    "title": "Product/Design Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8303870",
+    "location": "Chicago, Atlanta, US-Remote, Toro",
+    "date": "2026-11-04",
+    "company": "Stripe",
+    "category": "Recruiting & Talent Acquisition"
+  },
+  {
+    "title": "Recruiting Scheduler",
+    "url": "https://stripe.com/jobs/search?gh_jid=8351504",
+    "location": "Chicago",
+    "date": "2026-11-04",
+    "company": "Stripe",
+    "category": "Recruiting & Talent Acquisition"
+  },
+  {
+    "title": "Recruiting Scheduler",
+    "url": "https://stripe.com/jobs/search?gh_jid=8337362",
+    "location": "New York",
+    "date": "2026-11-04",
+    "company": "Stripe",
+    "category": "Recruiting & Talent Acquisition"
+  },
+  {
     "title": "Technical Recruiter (London, United Kingdom)",
     "url": "https://boards.greenhouse.io/figma/jobs/6239628004?gh_jid=6239628004",
     "location": "London, England",
     "date": "2026-11-04",
     "company": "Figma",
+    "category": "Recruiting & Talent Acquisition"
+  },
+  {
+    "title": "Recruiting Coordinator (Fixed Term)",
+    "url": "https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed",
+    "location": "New York, NY (HQ)",
+    "date": "2026-11-04",
+    "company": "Ramp",
     "category": "Recruiting & Talent Acquisition"
   },
   {
@@ -14,14 +54,6 @@
     "date": "2026-11-03",
     "company": "Stripe",
     "category": "Compensation, Benefits & Payroll"
-  },
-  {
-    "title": "Recruiting Scheduler",
-    "url": "https://stripe.com/jobs/search?gh_jid=8337362",
-    "location": "New York, Chicago",
-    "date": "2026-11-03",
-    "company": "Stripe",
-    "category": "Recruiting & Talent Acquisition"
   },
   {
     "title": "Recruiting Scheduler (Fixed-Term Contract)",
@@ -264,7 +296,7 @@
     "category": "Recruiting & Talent Acquisition"
   },
   {
-    "title": "Recruiting Coordinator - AMER",
+    "title": "Recruiting Coordinator,  AMER",
     "url": "https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e",
     "location": "San Francisco, California",
     "date": "2026-10-07",
