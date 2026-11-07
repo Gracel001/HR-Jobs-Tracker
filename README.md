@@ -2,12 +2,12 @@
 
 Entry-level and new grad roles across HR: recruiting, HRBP / people partner, HR analytics, L&D, compensation & benefits, employee relations, people operations, and more. Updated daily by GitHub Actions.
 
-_Last updated: 2026-11-06 13:58 UTC_
+_Last updated: 2026-11-07 13:39 UTC_
 
 ## Browse 44 Roles by Category
 
-- [Recruiting & Talent Acquisition](#recruiting--talent-acquisition) (28)
-- [HR Business Partner & People Partner](#hr-business-partner--people-partner) (5)
+- [Recruiting & Talent Acquisition](#recruiting--talent-acquisition) (29)
+- [HR Business Partner & People Partner](#hr-business-partner--people-partner) (4)
 - [HR Analytics, HRIS & Systems](#hr-analytics-hris--systems) (2)
 - [Compensation, Benefits & Payroll](#compensation-benefits--payroll) (2)
 - [Learning, Development & Talent Management](#learning-development--talent-management) (2)
@@ -19,6 +19,8 @@ _Last updated: 2026-11-06 13:58 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Databricks | Tech Sourcer (Contract) | Bengaluru, India | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8811059002) | 2026-11-07 |
+| Stripe | Core Recruiter (Fixed Term) | Chicago, Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8301957) | 2026-11-06 |
 | Airbnb | Recruiter, Sales & Corporate Functions (11-month contract) | Dublin, Ireland; London, United Kingdom | [Apply](https://careers.airbnb.com/positions/8247007?gh_jid=8247007) | 2026-11-06 |
 | Stripe | Product/Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8303870) | 2026-11-04 |
 | Stripe | Recruiting Scheduler | New York | [Apply](https://stripe.com/jobs/search?gh_jid=8337362) | 2026-11-04 |
@@ -29,7 +31,6 @@ _Last updated: 2026-11-06 13:58 UTC_
 | Stripe | Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8163193) | 2026-11-02 |
 | Stripe | GTM Recruiter (Fixed Term) | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8016504) | 2026-11-02 |
 | Figma | Sales Recruiter (London, United Kingdom) | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004) | 2026-10-30 |
-| Stripe | Core Business Recruiter (Fixed Term Contract) | Chicago | [Apply](https://stripe.com/jobs/search?gh_jid=8163187) | 2026-10-29 |
 | Stripe | Recruiting Coordinator | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8301264) | 2026-10-29 |
 | Stripe | SDC Recruiter | Bengaluru | [Apply](https://stripe.com/jobs/search?gh_jid=8237526) | 2026-10-29 |
 | Stripe | Technical Recruiter (Fixed Term Contract) | SF, SEA, NYC, CHI, ATL | [Apply](https://stripe.com/jobs/search?gh_jid=8154525) | 2026-10-29 |
@@ -53,7 +54,6 @@ _Last updated: 2026-11-06 13:58 UTC_
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
 | Figma | People Partner | San Francisco, CA • New York, NY • United States | [Apply](https://boards.greenhouse.io/figma/jobs/6239153004?gh_jid=6239153004) | 2026-11-03 |
-| Stripe | People Partner, Finance | San Francisco, Seattle or NYC | [Apply](https://stripe.com/jobs/search?gh_jid=8301260) | 2026-10-29 |
 | Ramp | People Business Partner, G&A | New York, NY (HQ) | [Apply](https://jobs.ashbyhq.com/ramp/a5c7c68a-33f9-4f78-929e-29b58f26d22a) | 2026-10-28 |
 | Notion | People Partner, EPD | San Francisco, California | [Apply](https://jobs.ashbyhq.com/notion/eed9cbca-72a2-49b3-b80f-0d6871de7492) | 2026-09-24 |
 | Palantir | People Partner | Washington, D.C. | [Apply](https://jobs.lever.co/palantir/99ab8dbd-fd69-4216-8c2a-09a202a1cb17) | 2020-08-04 |
