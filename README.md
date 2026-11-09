@@ -2,7 +2,7 @@
 
 Entry-level and new grad roles across HR: recruiting, HRBP / people partner, HR analytics, L&D, compensation & benefits, employee relations, people operations, and more. Updated daily by GitHub Actions.
 
-_Last updated: 2026-11-08 13:38 UTC_
+_Last updated: 2026-11-09 14:04 UTC_
 
 ## Browse 44 Roles by Category
 
@@ -23,8 +23,8 @@ _Last updated: 2026-11-08 13:38 UTC_
 | Stripe | Core Recruiter (Fixed Term) | Chicago, Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8301957) | 2026-11-06 |
 | Airbnb | Recruiter, Sales & Corporate Functions (11-month contract) | Dublin, Ireland; London, United Kingdom | [Apply](https://careers.airbnb.com/positions/8247007?gh_jid=8247007) | 2026-11-06 |
 | Stripe | Product/Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8303870) | 2026-11-04 |
-| Stripe | Recruiting Scheduler | Chicago | [Apply](https://stripe.com/jobs/search?gh_jid=8351504) | 2026-11-04 |
 | Stripe | Recruiting Scheduler | New York | [Apply](https://stripe.com/jobs/search?gh_jid=8337362) | 2026-11-04 |
+| Stripe | Recruiting Scheduler | Chicago | [Apply](https://stripe.com/jobs/search?gh_jid=8351504) | 2026-11-04 |
 | Figma | Technical Recruiter (London, United Kingdom) | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/6239628004?gh_jid=6239628004) | 2026-11-04 |
 | Ramp | Recruiting Coordinator (Fixed Term) | New York, NY (HQ) | [Apply](https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed) | 2026-11-04 |
 | Stripe | Recruiting Scheduler (Fixed-Term Contract) | SF | [Apply](https://stripe.com/jobs/search?gh_jid=8231145) | 2026-11-03 |
@@ -33,8 +33,8 @@ _Last updated: 2026-11-08 13:38 UTC_
 | Figma | Sales Recruiter (London, United Kingdom) | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004) | 2026-10-30 |
 | Stripe | Recruiting Coordinator | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8301264) | 2026-10-29 |
 | Stripe | SDC Recruiter | Bengaluru | [Apply](https://stripe.com/jobs/search?gh_jid=8237526) | 2026-10-29 |
-| Stripe | Technical Recruiter (Fixed Term Contract) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8142856) | 2026-10-29 |
 | Stripe | Technical Recruiter (Fixed Term Contract) | SF, SEA, NYC, CHI, ATL | [Apply](https://stripe.com/jobs/search?gh_jid=8154525) | 2026-10-29 |
+| Stripe | Technical Recruiter (Fixed Term Contract) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8142856) | 2026-10-29 |
 | Stripe | University Recruiter | N/A | [Apply](https://stripe.com/jobs/search?gh_jid=8159355) | 2026-10-29 |
 | Stripe | University Recruiter (Fixed Term) | San Francisco, New York, Seattle, US-Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8226211) | 2026-10-29 |
 | Notion | Business Recruiter, Foundation (G&A) | San Francisco, California | [Apply](https://jobs.ashbyhq.com/notion/d27acf46-d250-4c23-a95d-1480eab74b0a) | 2026-10-28 |
