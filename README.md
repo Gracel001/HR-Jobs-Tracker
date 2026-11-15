@@ -2,11 +2,11 @@
 
 Entry-level and new grad roles across HR: recruiting, HRBP / people partner, HR analytics, L&D, compensation & benefits, employee relations, people operations, and more. Updated daily by GitHub Actions.
 
-_Last updated: 2026-11-14 13:40 UTC_
+_Last updated: 2026-11-15 13:41 UTC_
 
-## Browse 49 Roles by Category
+## Browse 48 Roles by Category
 
-- [Recruiting & Talent Acquisition](#recruiting--talent-acquisition) (33)
+- [Recruiting & Talent Acquisition](#recruiting--talent-acquisition) (32)
 - [HR Business Partner & People Partner](#hr-business-partner--people-partner) (6)
 - [HR Analytics, HRIS & Systems](#hr-analytics-hris--systems) (2)
 - [Compensation, Benefits & Payroll](#compensation-benefits--payroll) (1)
@@ -20,11 +20,10 @@ _Last updated: 2026-11-14 13:40 UTC_
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
 | Databricks | GTM Recruiter | Tokyo, Japan | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8937106002) | 2026-11-13 |
-| Databricks | GTM Talent Sourcer (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002) | 2026-11-13 |
 | Databricks | GTM Talent Sourcer (Contract) | Tokyo, Japan | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8937105002) | 2026-11-13 |
+| Databricks | GTM Talent Sourcer (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002) | 2026-11-13 |
 | Databricks | GTM Talent Sourcer (Contract) | Sydney, Australia | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8200547002) | 2026-11-13 |
 | Databricks | Recruiter (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8771702002) | 2026-11-13 |
-| Databricks | Tech Sourcer (Contract) | Bengaluru, India | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8811059002) | 2026-11-13 |
 | Stripe | Recruiting Scheduler (SF) | SF | [Apply](https://stripe.com/jobs/search?gh_jid=8231145) | 2026-11-12 |
 | Stripe | Product/Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8303870) | 2026-11-11 |
 | Notion | GTM Recruiter, Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/notion/6bfca735-47e8-457a-9624-2081ee5f3baf) | 2026-11-11 |
@@ -39,8 +38,8 @@ _Last updated: 2026-11-14 13:40 UTC_
 | Figma | Sales Recruiter (London, United Kingdom) | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004) | 2026-10-30 |
 | Stripe | Recruiting Coordinator | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8301264) | 2026-10-29 |
 | Stripe | SDC Recruiter | Bengaluru | [Apply](https://stripe.com/jobs/search?gh_jid=8237526) | 2026-10-29 |
-| Stripe | Technical Recruiter (Fixed Term Contract) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8142856) | 2026-10-29 |
 | Stripe | Technical Recruiter (Fixed Term Contract) | SF, SEA, NYC, CHI, ATL | [Apply](https://stripe.com/jobs/search?gh_jid=8154525) | 2026-10-29 |
+| Stripe | Technical Recruiter (Fixed Term Contract) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8142856) | 2026-10-29 |
 | Stripe | University Recruiter | N/A | [Apply](https://stripe.com/jobs/search?gh_jid=8159355) | 2026-10-29 |
 | Stripe | University Recruiter (Fixed Term) | San Francisco, New York, Seattle, US-Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8226211) | 2026-10-29 |
 | Notion | Business Recruiter, Foundation (G&A) | San Francisco, California | [Apply](https://jobs.ashbyhq.com/notion/d27acf46-d250-4c23-a95d-1480eab74b0a) | 2026-10-28 |
