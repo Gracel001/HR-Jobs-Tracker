@@ -2,7 +2,7 @@
 
 Entry-level and new grad roles across HR: recruiting, HRBP / people partner, HR analytics, L&D, compensation & benefits, employee relations, people operations, and more. Updated daily by GitHub Actions.
 
-_Last updated: 2026-11-16 15:45 UTC_
+_Last updated: 2026-11-17 14:02 UTC_
 
 ## Browse 48 Roles by Category
 
@@ -21,8 +21,8 @@ _Last updated: 2026-11-16 15:45 UTC_
 | --- | --- | --- | --- | --- |
 | Stripe | Recruiting Scheduler | Chicago | [Apply](https://stripe.com/jobs/search?gh_jid=8351504) | 2026-11-16 |
 | Databricks | GTM Recruiter | Tokyo, Japan | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8937106002) | 2026-11-16 |
-| Databricks | GTM Talent Sourcer (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002) | 2026-11-16 |
 | Databricks | GTM Talent Sourcer (Contract) | Sydney, Australia | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8200547002) | 2026-11-16 |
+| Databricks | GTM Talent Sourcer (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002) | 2026-11-16 |
 | Databricks | GTM Talent Sourcer (Contract) | Tokyo, Japan | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8937105002) | 2026-11-16 |
 | Databricks | Recruiter (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8771702002) | 2026-11-16 |
 | Stripe | Recruiting Scheduler (SF) | SF | [Apply](https://stripe.com/jobs/search?gh_jid=8231145) | 2026-11-12 |
