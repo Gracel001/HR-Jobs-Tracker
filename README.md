@@ -2,15 +2,15 @@
 
 Entry-level and new grad roles across HR: recruiting, HRBP / people partner, HR analytics, L&D, compensation & benefits, employee relations, people operations, and more. Updated daily by GitHub Actions.
 
-_Last updated: 2026-11-23 14:14 UTC_
+_Last updated: 2026-11-24 14:10 UTC_
 
 ## Browse 49 Roles by Category
 
-- [Recruiting & Talent Acquisition](#recruiting--talent-acquisition) (35)
+- [Recruiting & Talent Acquisition](#recruiting--talent-acquisition) (34)
 - [HR Business Partner & People Partner](#hr-business-partner--people-partner) (5)
 - [HR Analytics, HRIS & Systems](#hr-analytics-hris--systems) (1)
 - [Compensation, Benefits & Payroll](#compensation-benefits--payroll) (1)
-- [Learning, Development & Talent Management](#learning-development--talent-management) (2)
+- [Learning, Development & Talent Management](#learning-development--talent-management) (3)
 - [Employee Relations, DEI & Culture](#employee-relations-dei--culture) (0)
 - [People Operations & HR Generalist](#people-operations--hr-generalist) (4)
 - [Other HR Programs & Roles](#other-hr-programs--roles) (1)
@@ -19,21 +19,21 @@ _Last updated: 2026-11-23 14:14 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
-| Airbnb | Recruiter, Commercial (12-Month Contract) | Sydney, Australia | [Apply](https://careers.airbnb.com/positions/8377478?gh_jid=8377478) | 2026-11-23 |
+| Stripe | GTM Recruiter (Fixed Term) | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8016504) | 2026-11-23 |
+| Stripe | Product/Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8303870) | 2026-11-23 |
 | Airbnb | Recruiter, Commercial (12-Month Contract) | Tokyo, Japan | [Apply](https://careers.airbnb.com/positions/8377745?gh_jid=8377745) | 2026-11-23 |
+| Airbnb | Recruiter, Commercial (12-Month Contract) | Sydney, Australia | [Apply](https://careers.airbnb.com/positions/8377478?gh_jid=8377478) | 2026-11-23 |
 | Stripe | GTM Recruiter, OpenRouter (Fixed Term) | SF, NYC, CHI, US-Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8404131) | 2026-11-20 |
 | Stripe | Technical Recruiter, OpenRouter (Fixed Term) | SF, NYC, CHI, US-Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8404144) | 2026-11-20 |
 | Stripe | Core Recruiter (Fixed Term) | Chicago, Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8301957) | 2026-11-19 |
 | Stripe | Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8163193) | 2026-11-19 |
-| Stripe | GTM Recruiter (Fixed Term) | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8016504) | 2026-11-19 |
-| Stripe | Product/Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8303870) | 2026-11-19 |
 | Stripe | Recruiting Coordinator | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8301264) | 2026-11-19 |
 | Stripe | Recruiting Scheduler | Chicago | [Apply](https://stripe.com/jobs/search?gh_jid=8351504) | 2026-11-19 |
 | Stripe | Recruiting Scheduler | New York | [Apply](https://stripe.com/jobs/search?gh_jid=8337362) | 2026-11-19 |
 | Stripe | Recruiting Scheduler (SF) | SF | [Apply](https://stripe.com/jobs/search?gh_jid=8231145) | 2026-11-19 |
 | Stripe | SDC Recruiter | Bengaluru | [Apply](https://stripe.com/jobs/search?gh_jid=8237526) | 2026-11-19 |
-| Stripe | Technical Recruiter (Fixed Term Contract) | SF, SEA, NYC, CHI, ATL | [Apply](https://stripe.com/jobs/search?gh_jid=8154525) | 2026-11-19 |
 | Stripe | Technical Recruiter (Fixed Term Contract) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8142856) | 2026-11-19 |
+| Stripe | Technical Recruiter (Fixed Term Contract) | SF, SEA, NYC, CHI, ATL | [Apply](https://stripe.com/jobs/search?gh_jid=8154525) | 2026-11-19 |
 | Stripe | University Recruiter | N/A | [Apply](https://stripe.com/jobs/search?gh_jid=8159355) | 2026-11-19 |
 | Databricks | GTM Recruiter | Tokyo, Japan | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8937106002) | 2026-11-19 |
 | Databricks | GTM Talent Sourcer (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002) | 2026-11-19 |
@@ -41,7 +41,6 @@ _Last updated: 2026-11-23 14:14 UTC_
 | Databricks | GTM Talent Sourcer (Contract) | Sydney, Australia | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8200547002) | 2026-11-19 |
 | Databricks | Recruiter (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8771702002) | 2026-11-19 |
 | Notion | GTM Recruiter, Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/notion/6bfca735-47e8-457a-9624-2081ee5f3baf) | 2026-11-11 |
-| Airbnb | Recruiter, Sales & Corporate Functions (11-month contract) | Dublin, Ireland; London, United Kingdom | [Apply](https://careers.airbnb.com/positions/8247007?gh_jid=8247007) | 2026-11-10 |
 | Figma | Technical Recruiter (London, United Kingdom) | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/6239628004?gh_jid=6239628004) | 2026-11-04 |
 | Ramp | Recruiting Coordinator (Fixed Term) | New York, NY (HQ) | [Apply](https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed) | 2026-11-04 |
 | Figma | Sales Recruiter (London, United Kingdom) | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004) | 2026-10-30 |
@@ -81,6 +80,7 @@ _Last updated: 2026-11-23 14:14 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Stripe | Sales Development & Vendor Enablement Training Specialist | Malaysia | [Apply](https://stripe.com/jobs/search?gh_jid=8393428) | 2026-11-24 |
 | Notion | Talent Management | San Francisco, California | [Apply](https://jobs.ashbyhq.com/notion/9a4b059a-f42b-438e-8098-9acda96825bf) | 2026-09-24 |
 | Notion | [Contract] Language Training Specialist - Japanese  | Tokyo, Japan  | [Apply](https://jobs.ashbyhq.com/notion/f1f9e19d-cbf3-49eb-9824-d04adf2e3d75) | 2026-08-14 |
 
@@ -94,8 +94,8 @@ _Last updated: 2026-11-23 14:14 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Stripe | People Operations Associate (11-Month FTC) | Dublin, Ireland | [Apply](https://stripe.com/jobs/search?gh_jid=8248102) | 2026-11-23 |
 | Stripe | Global People Operations - Systems Administrator | Bengaluru | [Apply](https://stripe.com/jobs/search?gh_jid=8227570) | 2026-11-19 |
-| Stripe | People Operations Associate (11-Month FTC) | Dublin, Ireland | [Apply](https://stripe.com/jobs/search?gh_jid=8248102) | 2026-11-19 |
 | Stripe | People Operations Associate (Centralized Operations) | Mexico City | [Apply](https://stripe.com/jobs/search?gh_jid=8049722) | 2026-11-19 |
 | Databricks | Data+AI Workforce Transformation Practitioner — Customer Delivery | United States | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002) | 2026-11-19 |
 
