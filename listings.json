@@ -1,5 +1,13 @@
 [
   {
+    "title": "SDC Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8288879",
+    "location": "Bangalore",
+    "date": "2026-11-25",
+    "company": "Stripe",
+    "category": "Recruiting & Talent Acquisition"
+  },
+  {
     "title": "Sales Development & Vendor Enablement Training Specialist",
     "url": "https://stripe.com/jobs/search?gh_jid=8393428",
     "location": "Malaysia",
@@ -33,16 +41,16 @@
   },
   {
     "title": "Recruiter, Commercial (12-Month Contract)",
-    "url": "https://careers.airbnb.com/positions/8377745?gh_jid=8377745",
-    "location": "Tokyo, Japan",
+    "url": "https://careers.airbnb.com/positions/8377478?gh_jid=8377478",
+    "location": "Sydney, Australia",
     "date": "2026-11-23",
     "company": "Airbnb",
     "category": "Recruiting & Talent Acquisition"
   },
   {
     "title": "Recruiter, Commercial (12-Month Contract)",
-    "url": "https://careers.airbnb.com/positions/8377478?gh_jid=8377478",
-    "location": "Sydney, Australia",
+    "url": "https://careers.airbnb.com/positions/8377745?gh_jid=8377745",
+    "location": "Tokyo, Japan",
     "date": "2026-11-23",
     "company": "Airbnb",
     "category": "Recruiting & Talent Acquisition"
@@ -113,16 +121,16 @@
   },
   {
     "title": "Recruiting Scheduler",
-    "url": "https://stripe.com/jobs/search?gh_jid=8351504",
-    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8337362",
+    "location": "New York",
     "date": "2026-11-19",
     "company": "Stripe",
     "category": "Recruiting & Talent Acquisition"
   },
   {
     "title": "Recruiting Scheduler",
-    "url": "https://stripe.com/jobs/search?gh_jid=8337362",
-    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8351504",
+    "location": "Chicago",
     "date": "2026-11-19",
     "company": "Stripe",
     "category": "Recruiting & Talent Acquisition"
@@ -185,16 +193,16 @@
   },
   {
     "title": "GTM Talent Sourcer (Contract)",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002",
-    "location": "Singapore",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937105002",
+    "location": "Tokyo, Japan",
     "date": "2026-11-19",
     "company": "Databricks",
     "category": "Recruiting & Talent Acquisition"
   },
   {
     "title": "GTM Talent Sourcer (Contract)",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937105002",
-    "location": "Tokyo, Japan",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002",
+    "location": "Singapore",
     "date": "2026-11-19",
     "company": "Databricks",
     "category": "Recruiting & Talent Acquisition"
@@ -248,14 +256,6 @@
     "category": "Recruiting & Talent Acquisition"
   },
   {
-    "title": "Talent Program and Events Strategist",
-    "url": "https://jobs.lever.co/palantir/133e2f49-685b-4234-b118-8d8e6851fb2e",
-    "location": "New York, NY",
-    "date": "2026-11-03",
-    "company": "Palantir",
-    "category": "Other HR Programs & Roles"
-  },
-  {
     "title": "Sales Recruiter (London, United Kingdom)",
     "url": "https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004",
     "location": "London, England",
@@ -301,14 +301,6 @@
     "location": "Tokyo, Japan ",
     "date": "2026-10-08",
     "company": "Notion",
-    "category": "Recruiting & Talent Acquisition"
-  },
-  {
-    "title": "Data Engineer - Talent Acquisition Operations",
-    "url": "https://jobs.lever.co/palantir/1b690123-1766-4e75-a0ef-0f58afa864b4",
-    "location": "New York, NY",
-    "date": "2026-10-07",
-    "company": "Palantir",
     "category": "Recruiting & Talent Acquisition"
   },
   {
@@ -382,13 +374,5 @@
     "date": "2026-05-07",
     "company": "Ramp",
     "category": "Recruiting & Talent Acquisition"
-  },
-  {
-    "title": "People Partner",
-    "url": "https://jobs.lever.co/palantir/99ab8dbd-fd69-4216-8c2a-09a202a1cb17",
-    "location": "Washington, D.C.",
-    "date": "2020-08-04",
-    "company": "Palantir",
-    "category": "HR Business Partner & People Partner"
   }
 ]

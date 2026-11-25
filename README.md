@@ -2,42 +2,43 @@
 
 Entry-level and new grad roles across HR: recruiting, HRBP / people partner, HR analytics, L&D, compensation & benefits, employee relations, people operations, and more. Updated daily by GitHub Actions.
 
-_Last updated: 2026-11-24 14:10 UTC_
+_Last updated: 2026-11-25 14:08 UTC_
 
-## Browse 49 Roles by Category
+## Browse 47 Roles by Category
 
 - [Recruiting & Talent Acquisition](#recruiting--talent-acquisition) (34)
-- [HR Business Partner & People Partner](#hr-business-partner--people-partner) (5)
+- [HR Business Partner & People Partner](#hr-business-partner--people-partner) (4)
 - [HR Analytics, HRIS & Systems](#hr-analytics-hris--systems) (1)
 - [Compensation, Benefits & Payroll](#compensation-benefits--payroll) (1)
 - [Learning, Development & Talent Management](#learning-development--talent-management) (3)
 - [Employee Relations, DEI & Culture](#employee-relations-dei--culture) (0)
 - [People Operations & HR Generalist](#people-operations--hr-generalist) (4)
-- [Other HR Programs & Roles](#other-hr-programs--roles) (1)
+- [Other HR Programs & Roles](#other-hr-programs--roles) (0)
 
 ## Recruiting & Talent Acquisition
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Stripe | SDC Recruiter | Bangalore | [Apply](https://stripe.com/jobs/search?gh_jid=8288879) | 2026-11-25 |
 | Stripe | GTM Recruiter (Fixed Term) | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8016504) | 2026-11-23 |
 | Stripe | Product/Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8303870) | 2026-11-23 |
-| Airbnb | Recruiter, Commercial (12-Month Contract) | Tokyo, Japan | [Apply](https://careers.airbnb.com/positions/8377745?gh_jid=8377745) | 2026-11-23 |
 | Airbnb | Recruiter, Commercial (12-Month Contract) | Sydney, Australia | [Apply](https://careers.airbnb.com/positions/8377478?gh_jid=8377478) | 2026-11-23 |
+| Airbnb | Recruiter, Commercial (12-Month Contract) | Tokyo, Japan | [Apply](https://careers.airbnb.com/positions/8377745?gh_jid=8377745) | 2026-11-23 |
 | Stripe | GTM Recruiter, OpenRouter (Fixed Term) | SF, NYC, CHI, US-Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8404131) | 2026-11-20 |
 | Stripe | Technical Recruiter, OpenRouter (Fixed Term) | SF, NYC, CHI, US-Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8404144) | 2026-11-20 |
 | Stripe | Core Recruiter (Fixed Term) | Chicago, Remote | [Apply](https://stripe.com/jobs/search?gh_jid=8301957) | 2026-11-19 |
 | Stripe | Design Recruiter | Chicago, Atlanta, US-Remote, Toro | [Apply](https://stripe.com/jobs/search?gh_jid=8163193) | 2026-11-19 |
 | Stripe | Recruiting Coordinator | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8301264) | 2026-11-19 |
-| Stripe | Recruiting Scheduler | Chicago | [Apply](https://stripe.com/jobs/search?gh_jid=8351504) | 2026-11-19 |
 | Stripe | Recruiting Scheduler | New York | [Apply](https://stripe.com/jobs/search?gh_jid=8337362) | 2026-11-19 |
+| Stripe | Recruiting Scheduler | Chicago | [Apply](https://stripe.com/jobs/search?gh_jid=8351504) | 2026-11-19 |
 | Stripe | Recruiting Scheduler (SF) | SF | [Apply](https://stripe.com/jobs/search?gh_jid=8231145) | 2026-11-19 |
 | Stripe | SDC Recruiter | Bengaluru | [Apply](https://stripe.com/jobs/search?gh_jid=8237526) | 2026-11-19 |
 | Stripe | Technical Recruiter (Fixed Term Contract) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8142856) | 2026-11-19 |
 | Stripe | Technical Recruiter (Fixed Term Contract) | SF, SEA, NYC, CHI, ATL | [Apply](https://stripe.com/jobs/search?gh_jid=8154525) | 2026-11-19 |
 | Stripe | University Recruiter | N/A | [Apply](https://stripe.com/jobs/search?gh_jid=8159355) | 2026-11-19 |
 | Databricks | GTM Recruiter | Tokyo, Japan | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8937106002) | 2026-11-19 |
-| Databricks | GTM Talent Sourcer (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002) | 2026-11-19 |
 | Databricks | GTM Talent Sourcer (Contract) | Tokyo, Japan | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8937105002) | 2026-11-19 |
+| Databricks | GTM Talent Sourcer (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002) | 2026-11-19 |
 | Databricks | GTM Talent Sourcer (Contract) | Sydney, Australia | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8200547002) | 2026-11-19 |
 | Databricks | Recruiter (Contract) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8771702002) | 2026-11-19 |
 | Notion | GTM Recruiter, Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/notion/6bfca735-47e8-457a-9624-2081ee5f3baf) | 2026-11-11 |
@@ -48,7 +49,6 @@ _Last updated: 2026-11-24 14:10 UTC_
 | Ramp | Technical Sourcer | Engineering (Contract) | New York, NY (HQ) | [Apply](https://jobs.ashbyhq.com/ramp/e8e96e0c-3780-42ed-8297-1ccfa505cd94) | 2026-10-19 |
 | Notion | Recruiting Coordinator, Tokyo | Tokyo, Japan  | [Apply](https://jobs.ashbyhq.com/notion/a31cd66b-1729-4ba9-9fb7-bf9099ed01e6) | 2026-10-14 |
 | Notion | Talent Sourcer | Tokyo, Japan  | [Apply](https://jobs.ashbyhq.com/notion/58f8804f-0260-4f76-81d8-774e72f4a018) | 2026-10-08 |
-| Palantir | Data Engineer - Talent Acquisition Operations | New York, NY | [Apply](https://jobs.lever.co/palantir/1b690123-1766-4e75-a0ef-0f58afa864b4) | 2026-10-07 |
 | Notion | Recruiting Coordinator,  AMER | San Francisco, California | [Apply](https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e) | 2026-10-07 |
 | Notion | GTM Recruiter, Tokyo | Tokyo, Japan  | [Apply](https://jobs.ashbyhq.com/notion/86138d2b-2e7a-4cbb-b108-549280cc4f03) | 2026-09-24 |
 | Notion | Sales Recruiter | New York, New York | [Apply](https://jobs.ashbyhq.com/notion/f663839e-46ac-44ad-9720-da2b6aa28093) | 2026-08-25 |
@@ -62,7 +62,6 @@ _Last updated: 2026-11-24 14:10 UTC_
 | Figma | People Partner | San Francisco, CA • New York, NY • United States | [Apply](https://boards.greenhouse.io/figma/jobs/6239153004?gh_jid=6239153004) | 2026-11-09 |
 | Ramp | People Business Partner, G&A | New York, NY (HQ) | [Apply](https://jobs.ashbyhq.com/ramp/a5c7c68a-33f9-4f78-929e-29b58f26d22a) | 2026-10-28 |
 | Notion | People Partner, EPD | San Francisco, California | [Apply](https://jobs.ashbyhq.com/notion/eed9cbca-72a2-49b3-b80f-0d6871de7492) | 2026-09-24 |
-| Palantir | People Partner | Washington, D.C. | [Apply](https://jobs.lever.co/palantir/99ab8dbd-fd69-4216-8c2a-09a202a1cb17) | 2020-08-04 |
 
 ## HR Analytics, HRIS & Systems
 
@@ -103,4 +102,4 @@ _Last updated: 2026-11-24 14:10 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
-| Palantir | Talent Program and Events Strategist | New York, NY | [Apply](https://jobs.lever.co/palantir/133e2f49-685b-4234-b118-8d8e6851fb2e) | 2026-11-03 |
+| _No openings right now_ | | | | |
