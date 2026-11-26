@@ -96,14 +96,6 @@
     "category": "People Operations & HR Generalist"
   },
   {
-    "title": "People Operations Associate (Centralized Operations)",
-    "url": "https://stripe.com/jobs/search?gh_jid=8049722",
-    "location": "Mexico City",
-    "date": "2026-11-19",
-    "company": "Stripe",
-    "category": "People Operations & HR Generalist"
-  },
-  {
     "title": "People Partner, Technology",
     "url": "https://stripe.com/jobs/search?gh_jid=7466921",
     "location": "San Francisco, Chicago, New York City or Seattle",
@@ -121,16 +113,16 @@
   },
   {
     "title": "Recruiting Scheduler",
-    "url": "https://stripe.com/jobs/search?gh_jid=8337362",
-    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8351504",
+    "location": "Chicago",
     "date": "2026-11-19",
     "company": "Stripe",
     "category": "Recruiting & Talent Acquisition"
   },
   {
     "title": "Recruiting Scheduler",
-    "url": "https://stripe.com/jobs/search?gh_jid=8351504",
-    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8337362",
+    "location": "New York",
     "date": "2026-11-19",
     "company": "Stripe",
     "category": "Recruiting & Talent Acquisition"
@@ -201,16 +193,16 @@
   },
   {
     "title": "GTM Talent Sourcer (Contract)",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002",
-    "location": "Singapore",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200547002",
+    "location": "Sydney, Australia",
     "date": "2026-11-19",
     "company": "Databricks",
     "category": "Recruiting & Talent Acquisition"
   },
   {
     "title": "GTM Talent Sourcer (Contract)",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200547002",
-    "location": "Sydney, Australia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002",
+    "location": "Singapore",
     "date": "2026-11-19",
     "company": "Databricks",
     "category": "Recruiting & Talent Acquisition"
@@ -254,6 +246,14 @@
     "date": "2026-11-04",
     "company": "Ramp",
     "category": "Recruiting & Talent Acquisition"
+  },
+  {
+    "title": "Talent Program and Events Strategist",
+    "url": "https://jobs.lever.co/palantir/133e2f49-685b-4234-b118-8d8e6851fb2e",
+    "location": "New York, NY",
+    "date": "2026-11-03",
+    "company": "Palantir",
+    "category": "Other HR Programs & Roles"
   },
   {
     "title": "Sales Recruiter (London, United Kingdom)",
@@ -301,6 +301,14 @@
     "location": "Tokyo, Japan ",
     "date": "2026-10-08",
     "company": "Notion",
+    "category": "Recruiting & Talent Acquisition"
+  },
+  {
+    "title": "Data Engineer - Talent Acquisition Operations",
+    "url": "https://jobs.lever.co/palantir/1b690123-1766-4e75-a0ef-0f58afa864b4",
+    "location": "New York, NY",
+    "date": "2026-10-07",
+    "company": "Palantir",
     "category": "Recruiting & Talent Acquisition"
   },
   {
@@ -374,5 +382,13 @@
     "date": "2026-05-07",
     "company": "Ramp",
     "category": "Recruiting & Talent Acquisition"
+  },
+  {
+    "title": "People Partner",
+    "url": "https://jobs.lever.co/palantir/99ab8dbd-fd69-4216-8c2a-09a202a1cb17",
+    "location": "Washington, D.C.",
+    "date": "2020-08-04",
+    "company": "Palantir",
+    "category": "HR Business Partner & People Partner"
   }
 ]
